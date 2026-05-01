@@ -1,0 +1,6 @@
+{
+  "name": "MamaGuard",
+  "description": "Offline maternal health risk assessment assistant for community health workers, providing instant triage and referral guidance based on WHO guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
